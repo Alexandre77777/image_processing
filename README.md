@@ -2,9 +2,9 @@
 
 В данном репозитории представлен перечень материалов по предмету **"Методы и алгоритмы цифровой обработки изображений"** для студентов групп **ФГиИБ-2021-ФГиИБ-ПИ-1б**, **ФГиИБ-2021-ФГиИБ-ПИ-2б**.
 
-[Статистика выполнения работ **ФГиИБ-2021-ФГиИБ-ПИ-1б**](https://docs.google.com/spreadsheets/d/1qBpsYWvl8fqvgz_q6rkKpieOft9jWfLP23xNwgXzmXQ/edit?pli=1#gid=1533910966)
+[Статистика выполнения работ **ФГиИБ-2021-ФГиИБ-ПИ-1б**](https://docs.google.com/spreadsheets/d/1qBpsYWvl8fqvgz_q6rkKpieOft9jWfLP23xNwgXzmXQ/edit?gid=1739462866#gid=1739462866)
 
-[Статистика выполнения работ **ФГиИБ-2021-ФГиИБ-ПИ-2б**](https://docs.google.com/spreadsheets/d/1qBpsYWvl8fqvgz_q6rkKpieOft9jWfLP23xNwgXzmXQ/edit?pli=1#gid=838399257)  
+[Статистика выполнения работ **ФГиИБ-2021-ФГиИБ-ПИ-2б**](https://docs.google.com/spreadsheets/d/1qBpsYWvl8fqvgz_q6rkKpieOft9jWfLP23xNwgXzmXQ/edit?gid=448729517#gid=448729517)  
 
 
 [Дополнительная литература](https://cloud.mail.ru/public/veX3/Aasf7g7U8)
