@@ -8,7 +8,9 @@
 
 | №   | Дата       | Ссылка на теорию                     | Ссылка на практику                  |
 |-----|------------|--------------------------------------|--------------------------------------|
-| 1   | 03.09.2025 | [Теория №1. Основные методы OpenCV (Часть №1)](https://colab.research.google.com/drive/162X6GW4xsU61pFrodwRGVOaL-YNRAqCZ?usp=sharing)      | [Практическая работа №1. Основные методы OpenCV (Часть №1)](https://u.to/63YkIg)   |
+| 1   | 03.09.2025 | [Теория №1. Основные методы OpenCV (Часть №1)](https://colab.research.google.com/drive/162X6GW4xsU61pFrodwRGVOaL-YNRAqCZ?usp=sharing)      | [Практическая работа №1а. Основные методы OpenCV (Часть №1)](https://colab.research.google.com/drive/1vu2339tSbykWOOFFDkGpYoTKIKX6oe6A?usp=sharing)   |
+|     |            |   | [Практическая работа №1b. Фильтрация изображений с использованием свертки в Python](https://cloud.mail.ru/public/Hw3L/35Uq5tjXs)|
+
 |     |            | [Доп. Теория: Визуализация изображений](https://colab.research.google.com/drive/1jNG59P81GSoL-WytsngE20g1q7Huu4ST?usp=sharing)  | |
 |     |            | [Доп. Теория: Фильтрация изображений с использованием свертки в Python](https://colab.research.google.com/drive/1WDUb-gyR61LDW6yaBtsY7_5ZU_7EsUUb?usp=sharing)  | |
 |     |            | [Доп. Теория: Вводная презентация](https://cloud.mail.ru/public/uVj7/kVwhv2TtM)  | |
