@@ -2,7 +2,7 @@
 
 В данном репозитории представлен перечень материалов по предмету **"Системы компьютерной математики"** для студентов групп **ФГиИБ-2022-ФГиИБ-ПИ-1б**.
 
-[Статистика выполнения работ **ФГиИБ-2022-ФГиИБ-ПИ-1б**](https://docs.google.com/spreadsheets/d/16y4igDGDjGtmPh7Hy1Uf_fAdXH2H2WPu5FQD_IpOh1M/edit?usp=sharing)
+[Статистика выполнения работ **ФГиИБ-2022-ФГиИБ-ПИ-1б**](https://docs.google.com/spreadsheets/d/16y4igDGDjGtmPh7Hy1Uf_fAdXH2H2WPu5FQD_IpOh1M/edit?gid=1766995642#gid=1766995642)
 
 [Дополнительная литература](https://cloud.mail.ru/public/veX3/Aasf7g7U8)
 
