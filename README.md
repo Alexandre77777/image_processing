@@ -8,14 +8,13 @@
 
 | №   | Дата       | Ссылка на теорию                     | Ссылка на практику                  |
 |-----|------------|--------------------------------------|--------------------------------------|
-| 1   | 03.09.2025 | [Теория №1. Основные методы OpenCV (Часть №1)](https://colab.research.google.com/drive/162X6GW4xsU61pFrodwRGVOaL-YNRAqCZ?usp=sharing)      | [Практическая работа №1а. Основные методы OpenCV (Часть №1)](https://colab.research.google.com/drive/1vu2339tSbykWOOFFDkGpYoTKIKX6oe6A?usp=sharing)   |
+| 1   | 03.09.2025 - 10.09.2025 | [Теория №1. Основные методы OpenCV (Часть №1)](https://colab.research.google.com/drive/162X6GW4xsU61pFrodwRGVOaL-YNRAqCZ?usp=sharing)      | [Практическая работа №1а. Основные методы OpenCV (Часть №1)](https://colab.research.google.com/drive/1vu2339tSbykWOOFFDkGpYoTKIKX6oe6A?usp=sharing)   |
 |     |            |   | [Практическая работа №1b. Фильтрация изображений с использованием свертки в Python](https://cloud.mail.ru/public/Hw3L/35Uq5tjXs)|
 |     |            | [Доп. Теория: Визуализация изображений](https://colab.research.google.com/drive/1jNG59P81GSoL-WytsngE20g1q7Huu4ST?usp=sharing)  | |
 |     |            | [Доп. Теория: Фильтрация изображений с использованием свертки в Python](https://colab.research.google.com/drive/1WDUb-gyR61LDW6yaBtsY7_5ZU_7EsUUb?usp=sharing)  | |
 |     |            | [Доп. Теория: Вводная презентация](https://cloud.mail.ru/public/uVj7/kVwhv2TtM)  | |
-
-
-
+| 2   | 16.09.2025 | [Теория №2. Применение метода «скользящего окна» для поиска объектов на изображении по эталонам в среде Python. Нелинейные фильтры](https://colab.research.google.com/drive/15FDMTzXtzCXc_4VHWXR_7RdmBivoBjKM?usp=sharing)      | [Практическая работа №2. Применение метода «скользящего окна» для поиска объектов на изображении по эталонам в среде Python. Нелинейные фильтры](https://colab.research.google.com/drive/1Qh3uTszoRWXSUvwjYNyYep1R_ucg-4mc?usp=sharing)   |
+| 3   | 16.09.2025 | [Теория №3. Основные методы OpenCV (Часть №2). Базовые операции](https://colab.research.google.com/drive/1OBF7CPLCAZNQLK5bQ5dMB8skuIh3NLZN?usp=sharing)      | [Практическая работа №3. Основные методы OpenCV (Часть №2). Базовые операции](https://colab.research.google.com/drive/1sifiRY1LUSci7AXjlJplZ8tkdElBjk7r?usp=sharing)   |
 
 
 
