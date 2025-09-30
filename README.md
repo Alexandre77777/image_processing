@@ -17,7 +17,7 @@
 | 3   | 16.09.2025 | [Теория №3. Основные методы OpenCV (Часть №2). Базовые операции](https://colab.research.google.com/drive/1OBF7CPLCAZNQLK5bQ5dMB8skuIh3NLZN?usp=sharing)      | [Практическая работа №3. Основные методы OpenCV (Часть №2). Базовые операции](https://colab.research.google.com/drive/1sifiRY1LUSci7AXjlJplZ8tkdElBjk7r?usp=sharing)   |
 | 4   | 23.09.2025 | [Теория №4. Основные методы OpenCV (Часть №3). Бинаризация изображений. Формирование и применение маски к изображениям](https://u.to/PgdZIg)      | |
 | 5   | 23.09.2025 | [Теория №5. Основные методы OpenCV (Часть №4). Обнаружение границ и контуров. Афинные преобразования](https://u.to/-CBZIg)      | |
-| 6   | 30.09.2025 | [Проектная работа №1: Классификация объектов на изображении](https://colab.research.google.com/drive/1mvOyGxLtzkqcKmXp8tNN3w_CMmnmudVD?usp=sharing)      | |
+| 6   | 30.09.2025 |       | [Проектная работа №1. Классификация объектов на изображении](https://colab.research.google.com/drive/1mvOyGxLtzkqcKmXp8tNN3w_CMmnmudVD?usp=sharing) |
 
 
 
