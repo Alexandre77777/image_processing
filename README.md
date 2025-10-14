@@ -14,11 +14,12 @@
 |     |            | [Доп. Теория: Фильтрация изображений с использованием свертки в Python](https://colab.research.google.com/drive/1WDUb-gyR61LDW6yaBtsY7_5ZU_7EsUUb?usp=sharing)  | |
 |     |            | [Доп. Теория: Вводная презентация](https://cloud.mail.ru/public/uVj7/kVwhv2TtM)  | |
 | 2   | 16.09.2025 | [Теория №2. Применение метода «скользящего окна» для поиска объектов на изображении по эталонам в среде Python. Нелинейные фильтры](https://colab.research.google.com/drive/15FDMTzXtzCXc_4VHWXR_7RdmBivoBjKM?usp=sharing)      | [Практическая работа №2. Применение метода «скользящего окна» для поиска объектов на изображении по эталонам в среде Python. Нелинейные фильтры](https://colab.research.google.com/drive/1Qh3uTszoRWXSUvwjYNyYep1R_ucg-4mc?usp=sharing)   |
-| 3   | 16.09.2025 | [Теория №3. Основные методы OpenCV (Часть №2). Базовые операции](https://colab.research.google.com/drive/1OBF7CPLCAZNQLK5bQ5dMB8skuIh3NLZN?usp=sharing)      | [Практическая работа №3. Основные методы OpenCV (Часть №2). Базовые операции](https://colab.research.google.com/drive/1sifiRY1LUSci7AXjlJplZ8tkdElBjk7r?usp=sharing)   |
+| 3   | 16.09.2025 | [Теория №3. Основные методы OpenCV (Часть №2). Базовые операции](https://u.to/gGpdIg)      | [Практическая работа №3. Основные методы OpenCV (Часть №2). Базовые операции](https://u.to/fmpdIg)   |
 | 4   | 23.09.2025 | [Теория №4. Основные методы OpenCV (Часть №3). Бинаризация изображений. Формирование и применение маски к изображениям](https://u.to/PgdZIg)      | |
 | 5   | 23.09.2025 | [Теория №5. Основные методы OpenCV (Часть №4). Обнаружение границ и контуров. Афинные преобразования](https://u.to/-CBZIg)      | |
-| 6   | 30.09.2025 |       | [Проектная работа №1. Классификация объектов на изображении](https://colab.research.google.com/drive/1mvOyGxLtzkqcKmXp8tNN3w_CMmnmudVD?usp=sharing) |
-| 7   | 07.09.2025 |       | [Проектная работа №2. Проектная работа №2. Сжатие изображений с использованием алгоритма кластеризации методом К-средних](https://colab.research.google.com/drive/1VQtroI3mlviEZR8kxETraOjY2N4_-16T?usp=sharing) |
+| 6   | 30.09.2025 |       | [Проектная работа №1. Классификация объектов на изображении](https://u.to/fWpdIg) |
+| 7   | 07.10.2025 |       | [Проектная работа №2. Проектная работа №2. Сжатие изображений с использованием алгоритма кластеризации методом К-средних](https://u.to/fGpdIg) |
+| 8   | 14.10.2025 |       | [Проектная работа №3. Работа с видеопотоком. Классификация и детекция объектов на изображении с использованием библиотеки ImageAI](https://u.to/d2pdIg) |
 
 
 
