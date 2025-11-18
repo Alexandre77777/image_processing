@@ -24,7 +24,7 @@
 | 10   | 11.11.2025 | [Теория №6. Применение библиотек Xarray и Rioxarray для цифровой обработки многомерных растровых изображений](https://colab.research.google.com/drive/1gnmTykHtDODEk4ww2mTXmWD9_msgyuqM?usp=sharing)      | [Практическая работа №5. Эффективная обработка растровых и векторных данных в Xarray и Rioxarray](https://colab.research.google.com/drive/1HoHAR0XQfag59ntvwArVT0PYzNpS-OM0?usp=sharing)   |
 |     |            | [Краткий конспект: Библиотека Xarray](https://colab.research.google.com/drive/1N5Ua7pIr7brpHIPFLskIQGBNZ_0XKlM5?usp=sharing)  | |
 |     |            | [Краткий конспект: Библиотека Rioxarray](https://colab.research.google.com/drive/1Xmck0oqn_UHj1Y2Fh9UFj_hCu357QBKg?usp=sharing)  | |
-| 11   | 18.11.2025 | [Теория №7. Основные методы OpenCV (Часть №5). ОДетектирование и описание ключевых точек](https://colab.research.google.com/drive/1GzR0TUm_Kue3L1kKGJZbLLfDFNovE5px?usp=sharing)      | |
+| 11   | 18.11.2025 | [Теория №7. Основные методы OpenCV (Часть №5). Детектирование и описание ключевых точек](https://colab.research.google.com/drive/1GzR0TUm_Kue3L1kKGJZbLLfDFNovE5px?usp=sharing)      | |
 
 
 
